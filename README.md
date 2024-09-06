@@ -1,1 +1,1 @@
-this is my first app with react native
+this is my first app with react native - POMODORO
